@@ -1,0 +1,1 @@
+"""api.routers — FastAPI 子 router 集合。"""
